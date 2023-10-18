@@ -52,16 +52,16 @@ $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
+/*
+$body-color                 : #fff;
+$background-color           : #fff;
+$code-background-color      : #fafafa;
+$code-background-color-dark : $light-gray;
+$text-color                 : $dark-gray;
+$border-color               : $lighter-gray;
 
-# $body-color                 : #fff;
-# $background-color           : #fff;
-# $code-background-color      : #fafafa;
-# $code-background-color-dark : $light-gray;
-# $text-color                 : $dark-gray;
-# $border-color               : $lighter-gray;
-
-# $primary-color              : #7a8288;
-
+$primary-color              : #7a8288;
+*/
 $background-color           : #333333 ;
 $text-color                 : #ffffff;
 $primary-color              : #d3d3d3;
