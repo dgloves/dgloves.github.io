@@ -83,10 +83,10 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "dg.jpg"
+  avatar           : "/files/dg.jpg"
   bio              : "Ph.D. Student WSU EECS, PNNL Distributed Systems Group graduate intern"
   location         : "Pullman, WA"
-  employer         :
+  employer         : "Pacific Northwest National Laboratory"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "daniel.glover1@wsu.edu"
