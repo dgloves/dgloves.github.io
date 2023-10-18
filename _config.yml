@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Daniel Glover"
 title_separator          : "-"
-name                     : &name "Daniel"
+name                     : &name "Daniel Glover"
 description              : &description "personal description"
 url                      : https://dgloves.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
