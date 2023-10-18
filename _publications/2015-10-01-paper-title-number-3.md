@@ -8,7 +8,7 @@ venue: 'IEEE PESGM (pending)'
 <!---
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 -->
-citation: 'M. Ramesh, K. Chatterjee, D. Glover, J. Follum, T. McDermott, A. Reiman. (2023). &quot;Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'M. Ramesh, K. Chatterjee, D. Glover, J. Follum, T. McDermott, A. Reiman. (2023). &quot;Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs.&quot; <i>PES General Meering</i>. 1(3).'
 ---
 This paper is about conducting large scale EMT studies to train a CNN to identify fault locations in a distribution network saturated with solar PVs.
 <!---
