@@ -1,7 +1,7 @@
 ---
 title: "Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs"
 ---
-citation: 'M. Ramesh, K. Chatterjee, <b>D. Glover</b>, J. Follum, T. McDermott, A. Reiman. &quot;Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs.&quot; <i>IEEE PES General Meeting</i>. 2024. pp.1-5.
+'M. Ramesh, K. Chatterjee, <b>D. Glover</b>, J. Follum, T. McDermott, A. Reiman. &quot;Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs.&quot; <i>IEEE PES General Meeting</i>. 2024. pp.1-5.
 
 <!--collection: publications-->
 <!--permalink: /publication/Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs-->
