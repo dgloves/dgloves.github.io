@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "/files/dg.jpg"
+  avatar           : "files/dg.jpg"
   bio              : "Ph.D. Student WSU EECS, PNNL Distributed Systems Group graduate intern"
   location         : "Pullman, WA"
   employer         : "Pacific Northwest National Laboratory"
