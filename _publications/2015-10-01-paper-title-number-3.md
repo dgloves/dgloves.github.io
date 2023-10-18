@@ -1,6 +1,6 @@
 ---
 title: "Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs"
-collection: publications
+# collection: publications
 # permalink: /publication/Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs
 # excerpt: 
 # date: 
