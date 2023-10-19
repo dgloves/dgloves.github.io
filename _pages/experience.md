@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-------
+
 Work experience
+------
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -21,8 +22,8 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-------
 Skills
+------
 ======
 * Skill 1
 * Skill 2
