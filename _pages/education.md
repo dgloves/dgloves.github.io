@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-======
+
 ------
 
 * Ph.D in Electrical Engineering and Computer Science, Washington State University, 2025 (expected)
