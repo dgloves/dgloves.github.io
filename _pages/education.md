@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!--Education--> # title provides this here
 ======
 
 * Ph.D in Electrical Engineering and Computer Science, Washington State University, 2025 (expected)
