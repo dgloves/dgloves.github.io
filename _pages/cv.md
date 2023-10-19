@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ------
 
-[Download a copy of my Resume/CV here](http://dgloves.github.io/files/resume.pdf)
+[Download a copy of my Resume/CV here](https://dgloves.github.io/files/resume.pdf)
 
 <!--
 Education
