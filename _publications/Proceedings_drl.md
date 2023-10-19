@@ -1,7 +1,7 @@
 ---
-title: "Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs"
+title: "Deep Reinforcement Learning Simulations for the Power Grid"
 ---
-M. Ramesh, K. Chatterjee, <b>D. Glover</b>, J. Follum, T. McDermott, A. Reiman. &quot;Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs.&quot; <i>IEEE PES General Meeting</i>. 2024. pp.1-5.
+<b>D. Glover</b>, G. Krishnamoorthy, H. Ren, A. Dubey, A. Gebremedhin. &quot;Deep Reinforcement Learning Simulations for the Power Grid.&quot; <i>Proceedings of the IEEE</i>. 2023. pp.1-28. (pending)
 
 <!--collection: publications-->
 <!--permalink: /publication/Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs-->
