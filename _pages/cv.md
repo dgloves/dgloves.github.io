@@ -8,8 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+------
 
-[Download a copy of my Resume/CV here](http://dgloves.github.io/files/paper1.pdf)
+[Download a copy of my Resume/CV here](http://dgloves.github.io/files/resume.pdf)
+
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -58,3 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--> 
