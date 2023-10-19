@@ -13,7 +13,8 @@ Work Experience
 ------
 * Washington State University: Graduate Research Assistant
   * Aug 2021 - present
-  * Duties included: Tagging issues
+  * SCALE Lab
+  * 
 
 ___
 
@@ -67,11 +68,16 @@ ___
 
 Technical Competencies
 ------
-
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages (Windows PC and Linux):
+  * adv: Python
+  * int: R, C/C++
+  * beg: Julia, TCL
+* Software:
+  * Power: Matlab, OpenDSS, PandaPower, ATP, PSCAD, EMTPWorks
+  * Machine Learning: AIGym, PyTorch, TensorFlow
+  * Misc: AutoDesk Eagle (PCB Design), SELAcselerator Quickset
+* Hardware:
+  * basic hand tools, soldering, cable termination
+  * switchgear, terminal block systems, equipment rack assembly
+  * programmable logic controllers (PLCs), digital relays, microcontrollers
 
