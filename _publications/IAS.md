@@ -1,5 +1,5 @@
 ---
-title: "Centralized Coordination of DER Smart Inverters using Deep Reinforcement Learning.” 2023 IEEE Industry Applications Society Annual Meeting, Oct 2023, pp.1-6."
+title: "Centralized Coordination of DER Smart Inverters using Deep Reinforcement Learning."
 ---
 <b>D. Glover</b>, A. Dubey. &quot;Centralized Coordination of DER Smart Inverters using Deep Reinforcement Learning.&quot; <i>2023 IEEE Industry Applications Society Annual Meeting</i>. 2023. pp.1-6.
 
