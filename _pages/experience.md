@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+------
 Work experience
 ======
 * Summer 2015: Research Assistant
