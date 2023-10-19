@@ -1,7 +1,7 @@
 ---
-title: "Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs"
+title: "Integration Issues of Solar PV in Distribution Feeder Protection Schemes"
 ---
-M. Ramesh, K. Chatterjee, <b>D. Glover</b>, J. Follum, T. McDermott, A. Reiman. &quot;Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs.&quot; <i>IEEE PES General Meeting</i>. 2024. pp.1-5.
+H. Chipuio, <b>D. Glover</b>, P. Moses. &quot;Integration Issues of Solar PV in Distribution Feeder Protection Schemes.&quot; <i>2021 Photovoltaics Specialists Conference</i>. June 2021, pp.1-6.
 
 <!--collection: publications-->
 <!--permalink: /publication/Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs-->
