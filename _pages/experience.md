@@ -24,9 +24,13 @@ ___
 * Pacific Northwest National Laboratory: Graduate Electrical Engineering Intern
   * May 2021 - present 
   * Distributed Systems Group:
-    * Modeling & Analysis Team
+    * Modeling & Analysis Team:
+      * Autonomous control of grid-forming (GFM) and grid-following (GFL) inverters
+      * DER dynamic solar inverter i/o modeling using <i>dynoNet</i>, EMT transient analysis studies
+      * Fault detection using clustering and convolutional neural networks (CNNs)
     * Power Electronics Team
-
+      * Continuous-time transfer function development for Hammerstein-Wiener solar PV inverter learning
+    
 ___
 
 * University of Oklahoma: Graduate Research Assistant
