@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[Download a copy of my Resume/CV here](http://dgloves.github.io/files/paper1.pdf)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
