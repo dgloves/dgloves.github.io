@@ -1,12 +1,12 @@
 ---
 layout: archive
-title:
+title: Experience & Skill Set
 permalink: /experience/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
+------
 {% include base_path %}
 
 Work experience
@@ -21,7 +21,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-Skills
+Technical Competencies
 ------
 * Skill 1
 * Skill 2
