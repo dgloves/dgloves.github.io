@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume/CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 ------
 
-[Download a copy of my Resume/CV here](https://dgloves.github.io/files/resume.pdf)
-
+[Download a copy of my Resume here](https://dgloves.github.io/files/resume.pdf)
+[Download a copy of my CV here](https://dgloves.github.io/files/CV.pdf)
 <!--
 Education
 ======
