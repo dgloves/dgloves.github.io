@@ -13,8 +13,11 @@ Work Experience
 ------
 * Washington State University: Graduate Research Assistant
   * Aug 2021 - present
-  * SCALE Lab
-  * 
+  * [SCALE Lab](https://anamika-dubey.github.io)
+  * Power Distribution Systems and Machine Learning
+    * Coordinated grid-edge device control (DERs) using Reinforcement Learning (RL)
+    * Safety and robutstness of deep-RL algorithms for power systems control
+      
 
 ___
 
