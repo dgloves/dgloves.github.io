@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title:
 permalink: /experience/
 author_profile: true
 redirect_from:
@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Work experience -->
+Work experience
+======
 ------
 * Summer 2015: Research Assistant
   * Github University
@@ -23,6 +24,7 @@ redirect_from:
 
   
 Skills
+======
 ------
 * Skill 1
 * Skill 2
