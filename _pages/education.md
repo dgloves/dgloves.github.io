@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+<!--title: "Education"-->
 permalink: /education/
 author_profile: true
 redirect_from:
@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<!--Education--> # title provides this here
+Education
 ======
+------
 
 * Ph.D in Electrical Engineering and Computer Science, Washington State University, 2025 (expected)
 	* Advisor: Dr. Anamika Dubey
