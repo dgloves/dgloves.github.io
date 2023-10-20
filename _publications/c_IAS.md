@@ -1,7 +1,7 @@
 ---
 title: "Centralized Coordination of DER Smart Inverters using Deep Reinforcement Learning"
 ---
-<b>D. Glover</b>, A. Dubey. &quot;Centralized Coordination of DER Smart Inverters using Deep Reinforcement Learning.&quot; <i>2023 IEEE Industry Applications Society Annual Meeting</i>. 2023, pp.1-6.
+<b>D. Glover</b>, A. Dubey. &quot;Centralized Coordination of DER Smart Inverters using Deep Reinforcement Learning.&quot; <i>IEEE Industry Applications Society Annual Meeting</i>. 2023, pp.1-6.
 
 <!--collection: publications-->
 <!--permalink: /publication/Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs-->
