@@ -84,11 +84,11 @@ analytics:
 author:
   name             : "Daniel Glover"
   avatar           : "dg.png"
-  bio              : "Ph.D. Student WSU EECS" # <img src='/images/wsu_logo_full.png' width='20'>
+  bio              : "Ph.D. Candidate WSU EECS" # <img src='/images/wsu_logo_full.png' width='20'>
   location         : "Pullman, WA"
   employer         : "Pacific Northwest National Laboratory"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=gMJS39UAAAAJ&hl=en&oi=sra"     #"http://yourfullgooglescholarurl.com"
   email            : "daniel.glover1@wsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
