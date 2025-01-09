@@ -1,5 +1,5 @@
 ---
-title: "Deep Reinforcement Learning for Power Systems Operations: A Tutorial and Survey"
+title: "Deep Reinforcement Learning for Distribution System Operations: A Tutorial and Survey"
 ---
 <b>D. Glover</b>, G. Krishnamoorthy, H. Ren, A. Dubey, A. Gebremedhin. &quot;Deep Reinforcement Learning for Distribution System Operations: A Tutorial and Survey.&quot; <i>Proceedings of the IEEE</i>. 2024, pp.1-26. (in review)
 
