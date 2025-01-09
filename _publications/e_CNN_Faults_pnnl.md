@@ -1,7 +1,7 @@
 ---
 title: "Convolutional Neural Network-Based Protection-Zone Classification of Faults in Distribution Feeders with Photovoltaics"
 ---
-M. Ramesh, K. Chatterjee, <b>D. Glover</b>, J. Follum, T. McDermott, A. Reiman. &quot;Convolutional Neural Network-Based Protection-Zone Classification of Faults in Distribution Feeders with Photovoltaics.&quot; <i>2024 IEEE PES General Meeting</i>, Seattle, WA. PNNL-SA-192146.
+M. Ramesh, K. Chatterjee, <b>D. Glover</b>, J. Follum, T. McDermott, A. Reiman. &quot;Convolutional Neural Network-Based Protection-Zone Classification of Faults in Distribution Feeders with Photovoltaics.&quot; <i>2024 IEEE Green Technologies Conference (GreenTech)</i>, 173-177.
 
 <!--collection: publications-->
 <!--permalink: /publication/Convolutional Neural Network-Based Protection Zone Classification of Faults in Distribution Feeders with PVs-->
